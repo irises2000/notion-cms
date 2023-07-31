@@ -1,7 +1,7 @@
 body {
   display: grid;
   place-content: center;
-  background-image: var(--gradient-3);
+  background-image: black;
 }
 
 .card-container {
